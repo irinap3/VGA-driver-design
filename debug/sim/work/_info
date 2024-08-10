@@ -1,0 +1,90 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Users/Irina/Desktop/Generator-Digital-De-Semnal- Popa_Maria_Irina/debug/sim
+vck_rst_tb
+Z0 !s110 1721482586
+!i10b 1
+!s100 N_`bfB2PS8mCRz3blm]bY2
+I9LJDP0X0:b7X]Fcn99YJ80
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+Z2 dC:/Users/Irina/Desktop/vga driver/debug/sim
+w1720731370
+8../hdl/ck_rst_tb.v
+F../hdl/ck_rst_tb.v
+L0 9
+Z3 OV;L;10.6d;65
+r1
+!s85 0
+31
+Z4 !s108 1721482586.000000
+!s107 ../hdl/ck_rst_tb.v|
+!s90 -reportprogress|300|../hdl/ck_rst_tb.v|
+!i113 1
+Z5 tCvgOpt 0
+vvga_driver
+R0
+!i10b 1
+!s100 h0iR;a6]`IFGoLbBPKLN53
+ITGK7fF[mma7l:ONRXh4;=0
+R1
+R2
+w1721482579
+8../../hdl/vga_driver.v
+F../../hdl/vga_driver.v
+Z6 L0 10
+R3
+r1
+!s85 0
+31
+R4
+!s107 ../../hdl/vga_driver.v|
+!s90 -reportprogress|300|../../hdl/vga_driver.v|
+!i113 1
+R5
+vvga_driver_tb
+R0
+!i10b 1
+!s100 UdCZLmTOjjP_;nTHJF_X?2
+II>AW?7@AR5k8aN<2N6j8S0
+R1
+R2
+w1720776370
+8../hdl/vga_driver_tb.v
+F../hdl/vga_driver_tb.v
+R6
+R3
+r1
+!s85 0
+31
+R4
+!s107 ../hdl/vga_driver_tb.v|
+!s90 -reportprogress|300|../hdl/vga_driver_tb.v|
+!i113 1
+R5
+vvga_monitor
+!s110 1721482587
+!i10b 1
+!s100 fDd91T4FD<Yzf0m`_`1QO1
+I`go`zmMEPCN0KU6VOF@oD3
+R1
+R2
+w1721116087
+8../hdl/vga_monitor.v
+F../hdl/vga_monitor.v
+L0 13
+R3
+r1
+!s85 0
+31
+R4
+!s107 ../hdl/vga_monitor.v|
+!s90 -reportprogress|300|../hdl/vga_monitor.v|
+!i113 1
+R5
